@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-compiler"
+name = "nam-wasmer-compiler"
 description = "Base compiler abstraction for Wasmer WebAssembly runtime"
 categories = ["wasm", "no-std"]
 keywords = ["wasm", "webassembly", "compiler"]

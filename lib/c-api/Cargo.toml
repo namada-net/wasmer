@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-c-api"
+name = "nam-wasmer-c-api"
 description = "Wasmer C API library"
 categories = ["wasm", "api-bindings"]
 keywords = ["wasm", "webassembly", "runtime"]

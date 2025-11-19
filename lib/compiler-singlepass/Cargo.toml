@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-compiler-singlepass"
+name = "nam-wasmer-compiler-singlepass"
 description = "Singlepass compiler for Wasmer WebAssembly runtime"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly", "compiler", "singlepass"]

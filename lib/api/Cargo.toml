@@ -1,5 +1,5 @@
 [package]
-name = "wasmer"
+name = "nam-wasmer"
 description = "High-performance WebAssembly runtime"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly", "runtime", "vm"]

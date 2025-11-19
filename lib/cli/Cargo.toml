@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-cli"
+name = "nam-wasmer-cli"
 description = "Wasmer CLI"
 categories = ["wasm", "command-line-interface"]
 keywords = ["wasm", "webassembly", "cli"]

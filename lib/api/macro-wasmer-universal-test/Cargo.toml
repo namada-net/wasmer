@@ -1,5 +1,5 @@
 [package]
-name = "macro-wasmer-universal-test"
+name = "nam-macro-wasmer-universal-test"
 version = "4.4.0-nam.0"
 edition = "2021"
 license = "MIT"

@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-object"
+name = "nam-wasmer-object"
 description = "Wasmer Native Object generator"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly"]

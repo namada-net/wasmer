@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-compiler-cranelift"
+name = "nam-wasmer-compiler-cranelift"
 description = "Cranelift compiler for Wasmer WebAssembly runtime"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly", "compiler", "cranelift"]

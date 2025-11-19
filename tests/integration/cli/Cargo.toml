@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-integration-tests-cli"
+name = "nam-wasmer-integration-tests-cli"
 version = "4.4.0-nam.0"
 authors = ["Wasmer Engineering Team <engineering@wasmer.io>"]
 description = "CLI integration tests"

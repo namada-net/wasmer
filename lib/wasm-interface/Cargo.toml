@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-wasm-interface"
+name = "nam-wasmer-wasm-interface"
 description = "WASM Interface definition and parser"
 readme = "README.md"
 authors.workspace = true

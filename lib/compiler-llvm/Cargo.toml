@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-compiler-llvm"
+name = "nam-wasmer-compiler-llvm"
 description = "LLVM compiler for Wasmer WebAssembly runtime"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly", "compiler", "llvm"]

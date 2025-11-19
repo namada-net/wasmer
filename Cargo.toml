@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-workspace"
+name = "nam-wasmer-workspace"
 description = "Wasmer workspace"
 publish = false
 autoexamples = false

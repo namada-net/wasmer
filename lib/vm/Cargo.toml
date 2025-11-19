@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-vm"
+name = "nam-wasmer-vm"
 description = "Runtime library support for Wasmer"
 categories = ["wasm"]
 keywords = ["wasm", "webassembly"]

@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-c-api-test-runner"
+name = "nam-wasmer-c-api-test-runner"
 version = "4.4.0-nam.0"
 edition = "2021"
 license = "MIT"

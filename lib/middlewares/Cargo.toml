@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-middlewares"
+name = "nam-wasmer-middlewares"
 description = "A collection of various useful middlewares"
 categories = ["wasm"]
 keywords = ["webassembly", "wasm"]

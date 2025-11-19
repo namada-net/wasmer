@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-derive"
+name = "nam-wasmer-derive"
 description = "Wasmer derive macros"
 authors.workspace = true
 edition.workspace = true

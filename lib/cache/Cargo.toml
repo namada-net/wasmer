@@ -1,5 +1,5 @@
 [package]
-name = "wasmer-cache"
+name = "nam-wasmer-cache"
 description = "Cache system for Wasmer WebAssembly runtime"
 categories = ["wasm", "caching"]
 keywords = ["wasm", "webassembly", "cache"]
